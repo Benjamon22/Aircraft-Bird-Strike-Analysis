@@ -9,8 +9,6 @@ Here are some of the aspects explored:
 5. Predicting costs
 6. Predicting damage
 
-This is still an ongoing project.
-
 Planning:
 1. Plotting the number of bird strikes over time.
 2. Forecasting the number of strikes in the future.
